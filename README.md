@@ -33,22 +33,84 @@ Write the detailed procedure here
 
 
 ## Program:
+
+
+half subtractor:
+
+
+
+![Exp4 hs code](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/ad7e5b94-462d-4cb5-adf0-05c7473c311c)
+
+
+full substarctor:
+
+
+
+![Exp4 fs code](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/be445d86-b4dc-4d98-9e1e-80603251f4ce)
+
 /*
+OUTPUT:
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: SANJAY KUMAR.B
+RegisterNumber:  23004077
 */
 
-## Output:
+
 
 ## Truthtable
+
+half substractor:
+
+
+![Exp4 truthtable hs](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/da98851f-bde0-4d85-af89-17768c7e3c49)
+
+
+
+full substactor:
+
+
+![Exp4 truthtable hs](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/9de40d4d-e404-4622-91a3-5a2b44af4b10)
+
 
 
 
 ##  RTL realization
+half substactor:
+
+
+
+
+![Exp4 hs RTL diagram](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/ad435f93-6bca-4edc-b449-6a45aa7c5b2d)
+
+
+full stustactor:
+
+
+
+
+![Exp4 fs RTL diagram](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/8f9855ec-9e33-41de-96d7-a84ee04d38d8)
+
+
+
+
+
 
 
 ## Timing diagram 
+
+half substactor:
+
+
+
+
+![hs wave](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/0d30b46e-69ae-43be-b2cb-ad105d919149)
+
+full substactor:
+
+
+
+
+![fs wave](https://github.com/bsanjaykumar560/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145954153/ceba27b9-fb3c-44ee-b565-1b3e22b957e7)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
